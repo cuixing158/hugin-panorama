@@ -1,4 +1,4 @@
-# panorama-hugin
+# hugin-panorama
 
 ## Overview
 
