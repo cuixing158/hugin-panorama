@@ -1,5 +1,7 @@
 # panorama-hugin
 
+## Overview
+
 This repository is used for batch generation of panoramic images using [Hugin](https://hugin.sourceforge.io/download/). The advantage is that it directly utilizes the built-in features of the software, without requiring in-depth understanding of the underlying principles, providing a user-friendly panoramic stitching experience.
 
 Input dual-fisheye images:  
@@ -18,7 +20,7 @@ For the above input dual-fisheye images, import all images into the Hugin stitch
  <div style="color:orange; border-bottom:1px solid #d9d9d9;  
  display: inline-block;  
  color: #999;  
- padding:2px;">panorama360</div>  
+ padding:2px;">360 panorama</div>  
 </center>  
 
 ## Getting Started
