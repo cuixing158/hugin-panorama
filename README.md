@@ -1,5 +1,7 @@
 # hugin-panorama
 
+[![Sponsor](https://img.shields.io/badge/-Sponsor-red?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white)](https://raw.githubusercontent.com/cuixing158/OpticalFlow-Visualization/refs/heads/main/README_media/sponsors.jpg)
+
 ## Overview
 
 This repository is used for batch generation of panoramic images using [Hugin](https://hugin.sourceforge.io/download/). The advantage is that it directly utilizes the built-in features of the software, without requiring in-depth understanding of the underlying principles, providing a user-friendly panoramic stitching experience.
